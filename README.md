@@ -4,13 +4,13 @@ Veřejný distribuční repozitář pluginů pro AndroidBox.cz.
 
 ## Pluginy
 
-- **AndroidBox.cz Site Manager** — aktuálně 4.2.2
-- **AndroidBox.cz Affiliate Manager** — aktuálně 1.1.1
+- **AndroidBox.cz Site Manager** — 4.2.2
+- **AndroidBox.cz Affiliate Manager** — 1.1.1
 
-Zdrojový vývoj a kompletní projekt zůstává v soukromém repozitáři `Androidbox.cz`.
+Soukromý repozitář `Androidbox.cz` zůstává hlavním vývojovým repozitářem. Tento repozitář obsahuje veřejnou distribuční kopii pluginů, release ZIPy a update manifest.
 
 ## Automatické aktualizace
 
-Pluginy používají vlastní veřejný update kanál přes `update.json`. WordPress kontroluje dostupnou verzi a při nalezení novějšího balíčku nabídne standardní aktualizaci pluginu.
+Pluginy používají vlastní update kanál přes `update.json`. WordPress kontroluje dostupnou verzi a při nalezení novějšího balíčku může nabídnout standardní aktualizaci.
 
-Distribuční ZIPy jsou v adresáři `releases/`.
+Distribuční balíčky jsou v `releases/`.
