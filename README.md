@@ -5,4 +5,4 @@ Veřejný distribuční repozitář pluginů pro AndroidBox.cz.
 - AndroidBox.cz Site Manager — 4.2.2
 - AndroidBox.cz Affiliate Manager — 1.1.1
 
-Soukromý repozitář `Androidbox.cz` je hlavní vývojový repozitář. Tento repozitář slouží jako veřejný distribuční kanál, obsahuje pluginy, release ZIPy a `update.json`.
+Veřejný repozitář obsahuje distribuční kopie pluginů, release ZIPy a update manifest. Vývojový repozitář `Androidbox.cz` zůstává soukromý.
