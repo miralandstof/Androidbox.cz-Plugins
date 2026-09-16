@@ -1,12 +1,16 @@
 # AndroidBox.cz Plugins
 
-Public distribution repository for AndroidBox.cz WordPress plugins.
+Veřejný distribuční repozitář pluginů pro AndroidBox.cz.
 
-The development repository for the AndroidBox.cz theme remains private.
+## Pluginy
 
-## Plugins
+- **AndroidBox.cz Site Manager** — aktuálně 4.2.2
+- **AndroidBox.cz Affiliate Manager** — aktuálně 1.1.1
 
-- AndroidBox.cz Site Manager
-- AndroidBox.cz Affiliate Manager
+Zdrojový vývoj a kompletní projekt zůstává v soukromém repozitáři `Androidbox.cz`.
 
-This repository contains only distributable plugin code and release packages. No credentials, API keys, hosting access, database dumps, or private configuration should be stored here.
+## Automatické aktualizace
+
+Pluginy používají vlastní veřejný update kanál přes `update.json`. WordPress kontroluje dostupnou verzi a při nalezení novějšího balíčku nabídne standardní aktualizaci pluginu.
+
+Distribuční ZIPy jsou v adresáři `releases/`.
